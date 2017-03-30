@@ -72,7 +72,7 @@ JP 摩根将液体活检分为早期筛查、诊断分型、药物伴随检测�
 
 ## 参考文献{#ref .unnumbered}
 
-1. [广州日报. 无创DNA产前诊断之父卢煜明：尿液查癌或将代替活检. 2016-12-19.]()
-2. [Eva Kiesler. What Is Tumor Heterogeneity?;Memorial Sloan Kettering Cancer Center. 2014-07-02.]()
-3. [Zhang Z, et al. Current Status of CTCs as Liquid Biopsy in Lung Cancer and Future Directions.]() 
-4. [MIT Technology Review; 10 Breakthrough Technology. 2015.]()
+1. 广州日报. 无创DNA产前诊断之父卢煜明：尿液查癌或将代替活检. 2016-12-19.
+2. Eva Kiesler. What Is Tumor Heterogeneity?;Memorial Sloan Kettering Cancer Center. 2014-07-02.
+3. Zhang Z, et al. Current Status of CTCs as Liquid Biopsy in Lung Cancer and Future Directions.
+4. MIT Technology Review; 10 Breakthrough Technology. 2015.
