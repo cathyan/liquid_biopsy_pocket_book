@@ -1,3 +1,1 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
-
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/
+海普洛斯推出【液体活检口袋书】专栏，对液体活检进行系统、全面的介绍。每周三更新，向大家介绍关于液体活检的一切。关注本公众号，即可随用随查。
