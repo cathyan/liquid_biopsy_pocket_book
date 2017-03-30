@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: 
+github-repo: OpenGene/PocketBook
 description: "海普洛斯推出【液体活检口袋书】专栏"
 ---
 
