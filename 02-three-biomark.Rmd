@@ -1,0 +1,48 @@
+# 液态活检三大标志物{#three-biomark}
+
+第3期，我们将对液体活检的三大标志物进行介绍，期望使您掌握液体活检三大标志物各自的优势、不足及应用范围。
+
+![]()
+
+肿瘤液体活检是一个广义的范畴，目前主要是利用血液中的标志物来反映肿瘤的特定信息。这些标志物主要包括CTC、ctDNA、外泌体（exosome）,今天我们就来简要介绍这三种标志物。
+
+## CTC：一整个肿瘤细胞
+
+循环肿瘤细胞（Circulating Tumor Cell, CTC），是指从实体瘤中脱离出来并进入外周血液循环的肿瘤细胞。1869年，澳大利亚学者Ashworth在一例转移性肿瘤患者血液中首次观察到从实体肿瘤中脱离并进入血液循环的肿瘤细胞，并率先提出了CTC的概念。
+
+CTC数目往往很少，而血液中血细胞的数量则非常庞大（1ml血液中白细胞400-1000万个），要想检测CTC，关键在于根据CTC的物理学特征（大小、密度、电荷、可变形性）和生物学特征（表面抗原、侵袭性等），来实现CTC从血液中的识别和富集。
+
+根据CTC往往比血细胞要大个点儿来识别显然不那么靠谱，然而利用抗原来识别也面临很多问题，需要预先知道要寻找的细胞的特异抗原，而且并非所有CTC都有着相同的抗原特征。如果设定的抗原特异性稍差，哪怕是99.99%的特异度，也会导致成百上千个白细胞掺入；而根据特定抗原来识别CTC的敏感性也是不容乐观，可能会错过大量不含有该抗原的CTC。
+
+目前FDA和CFDA有批准的CTC检测产品，均是根据肿瘤细胞特定抗原对CTC进行计数，利用血液中CTC数目提示疗效、预后等信息。而CTC的富集和后续分析，目前还很少有应用，一是技术难度大，更重要的是少数几个CTC很难完整反映肿瘤完整的信息。
+
+## ctDNA：带有肿瘤信息的DNA片段
+
+循环肿瘤DNA（Circulating tumor DNA, ctDNA），是指肿瘤细胞释放的，带有肿瘤信息的DNA片段，是血浆游离DNA（cell free DNA，cfDNA）的一部分。
+
+我们所说的ctDNA检测，实际上检测的是全部的cfDNA，再从中分析肿瘤特异的基因变异，也就是说利用肿瘤变异特征来代表其中的ctDNA。ctDNA在cfDNA中的比例波动范围较大，0.01％～90％，受肿瘤分期、转移等影响，大部分在千分之几的数量级，导致cfDNA中能检测到的肿瘤突变频率很低，有研究表明半数以上突变频率在0.4%以下。
+
+因此，ctDNA的检测需要技术灵敏度较高，目前比较适用的技术包括数字PCR技术和结合单分子编码的NGS技术，灵敏度分别可以达到0.01%和0.05%左右。对于晚期肿瘤，敏感性均可达90%以上，可以进行靶向药物指导、疗效监测、耐药监测等分析。但早期肿瘤由于释放的ctDNA少，检出率仍比较低，用于早期筛查尚不成熟。
+
+## 外泌体：肿瘤细胞的“twitter”
+
+外泌体（Exosome），是一种能被大多数细胞分泌的微小膜泡，具有脂质双层膜结构，直径大约40-100 nm。最近几年，人们发现这种微小膜泡中含有细胞特异的蛋白、脂质和核酸，能作为信号分子传递给其他细胞从而改变其他细胞的功能。研究发现肿瘤细胞释放的外泌体的量较大，这些外泌体与肿瘤的发生、发展、转移以及抗药性具有一定的相关性。因此，可以利用肿瘤细胞释放到血液中的外泌体，检测其中特异的蛋白和非编码RNA等，来分析肿瘤相关的信息。
+
+外泌体的分析主要对象是其中的特异性RNA和蛋白。例如，有研究发现胰腺癌病人血清中GPC1（glypican-1）阳性的外泌体占比显著增高；另有研究者发现，肿瘤会释放携带高水平miR-122的囊泡来营造适合肿瘤转移的土壤，这暗示着肿瘤外泌体中miR-122可能是一个潜在的标志物和药物靶点。
+
+虽然外泌体应用的前景广阔，但目前仍处于研究阶段，其提取、纯化的技术难度较高，对于外泌体中具体标志物的选择，还需要科研上有更多成果的支持。
+
+## CTC、ctDNA与外泌体的比较
+
+CTC，ctDNA 和外泌体虽然都是液态活检的检测对象，但各有特色。从本质上来说，CTC，ctDNA 和外泌体，这三者的特征和用途有较明显差异，可以相互补充。下面是三种方法优劣势及应用的比较：
+
+![]()
+
+由于肿瘤DNA水平变异研究得最为成熟，而测序技术的发展也为ctDNA检测提供了技术手段。因此，目前ctDNA的应用最为成熟，尤其是在指导用药方面，ctDNA有无可比拟的优势！
+
+## 参考文献{#ref .unnumbered}
+
+1. Zhang W, Xia W, Lv Z, Ni C, Xin Y, Yang L, Liquid Biopsy for Cancer: Circulating Tumor Cells, Circulating Free DNA or Exosomes? Cell Physiol Biochem 2017;41:755-768.
+2. Lanman RB, Mortimer SA, Zill OA, et al. Analytical and Clinical Validation of a Digital Sequencing Panel for Quantitative, Highly Accurate Evaluation of Cell-Free Circulating Tumor DNA. Hoheisel JD, ed. PLoS ONE. 2015;10(10):e0140712.
+3. Melo SA, Luecke LB, Kahlert C, et al. Glypican1 identifies cancer exosomes and facilitates early detection of cancer. Nature. 2015;523(7559):177-182. doi:10.1038/nature14581.
+4. Fong MY, Zhou W, Liu L, et al. Breast cancer-secreted miR-122 reprograms glucose metabolism in pre-metastatic niche to promote metastasis. Nature cell biology. 2015;17(2):183-194. doi:10.1038/ncb3094.
