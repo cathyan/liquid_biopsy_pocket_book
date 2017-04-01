@@ -1,13 +1,17 @@
 bookdown::gitbook:
   css: style.css
   config:
+    sharing:
+      facebook: no
+      weibo: yes
+      twitter: yes
     toc:
       before: |
         <li><a href="./">Liquid biopsy Pocket book</a></li>
       after: |
         <li><a href="https://github.com/OpenGene" target="blank">OpenGene</a></li>
+        <li><a href="">付费广告位招租，熟人免费</a><li>
     edit: https://github.com/OpenGene/liquid_biopsy_pocket_book/edit/master/%s
-    download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
