@@ -2,7 +2,9 @@
 
 第3期，我们将对液体活检的三大标志物进行介绍，期望使您掌握液体活检三大标志物各自的优势、不足及应用范围。
 
-![](image/C3/01.png)
+```{r, out.width='100%', fig.cap='液体活检三大标志物',fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
+knitr::include_graphics('image/C3/01.jpg')
+```
 
 肿瘤液体活检是一个广义的范畴，目前主要是利用血液中的标志物来反映肿瘤的特定信息。这些标志物主要包括CTC、ctDNA、外泌体（exosome）,今天我们就来简要介绍这三种标志物。
 
@@ -36,7 +38,9 @@ CTC数目往往很少，而血液中血细胞的数量则非常庞大（1ml血�
 
 CTC，ctDNA 和外泌体虽然都是液态活检的检测对象，但各有特色。从本质上来说，CTC，ctDNA 和外泌体，这三者的特征和用途有较明显差异，可以相互补充。下面是三种方法优劣势及应用的比较：
 
-![](image/C3/02.png)
+```{r, out.width='100%',fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
+knitr::include_graphics('image/C3/02.jpg')
+```
 
 由于肿瘤DNA水平变异研究得最为成熟，而测序技术的发展也为ctDNA检测提供了技术手段。因此，目前ctDNA的应用最为成熟，尤其是在指导用药方面，ctDNA有无可比拟的优势！
 
